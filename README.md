@@ -14,7 +14,7 @@ The project contains implementations of:
 The first four was part of the original assignment. Stooge was added as an extra algorithm to experiment with a worse theoretical performance.
 
 ## How to use
-Compile the Java files and run 'Main'.
+Compile the Java files and run `Main`.
 The program will ask for:
 
 1. The filename containing the array/integers to sort.
@@ -26,13 +26,13 @@ The selected algorithm is then passed to the sorting framework, which produces t
 ## Input files
 The input files should contain integers with one integer on each line. 
 Example: 
-''
+`
 42
 17
 8
 23
 4
-''
+`
 
 The original input files used were provided through the IN2010 sorting [resources](https://github.uio.no/IN2010/sortering-ressursside). Example input files can be found there.
 
@@ -43,9 +43,9 @@ The following files were provided:
 - SortRunner.java
 - Main.java
 
-The sorting algorithms were implemented as part of the assignment. The project has since been adjusted, including changes to 'Main.java' so that the user can select the input file and the sorting algorithm interactively.
+The sorting algorithms were implemented as part of the assignment. The project has since been adjusted, including changes to `Main.java` so that the user can select the input file and the sorting algorithm interactively.
 
-'SortRunner.java' is still used for running the sorting algorithm and producing the output files, but has been adjusted to accommodate for the CLI. 
+`SortRunner.java` is still used for running the sorting algorithm and producing the output files, but has been adjusted to accommodate for the CLI. 
 
 ## Analysis
 The project also contains Python code used to plot the experimental results to analyse the sorting algs.
