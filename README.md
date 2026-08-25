@@ -25,12 +25,18 @@ The selected algorithm is then passed to the sorting framework, which produces t
 
 ## Input files
 The input files should contain integers with one integer on each line. 
+
 Example: 
+
 `
 42
+
 17
+
 8
+
 23
+
 4
 `
 
