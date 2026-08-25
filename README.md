@@ -28,7 +28,6 @@ The input files should contain integers with one integer on each line.
 
 Example: 
 
-`
 42
 
 17
@@ -38,7 +37,6 @@ Example:
 23
 
 4
-`
 
 The original input files used were provided through the IN2010 sorting [resources](https://github.uio.no/IN2010/sortering-ressursside). Example input files can be found there.
 
