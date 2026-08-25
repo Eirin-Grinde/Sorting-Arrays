@@ -3,7 +3,7 @@ Implementation and comparison of different sorting algorithms in Java.
 
 This project was originally developed as part of the IN2010 course at the University of Oslo. The project has since been updated to make the program more usable as a standalone project.
 
-## Sorting algorithms and implementation (UML - Class diagram)
+## Sorting algorithms
 The project contains implementations of:
 - Insertion Sort
 - Merge Sort
@@ -12,8 +12,6 @@ The project contains implementations of:
 - Stooge Sort
 
 The first four was part of the original assignment. Stooge was added as an extra algorithm to experiment with a worse theoretical performance.
-![image](<img width="3071" height="2442" alt="mermaid-diagram-1787655241072" src="https://github.com/user-attachments/assets/391b2ec4-44c9-40d5-9a8c-bb92783ca074" />)
-
 
 ## How to use
 Compile the Java files and run `Main`.
